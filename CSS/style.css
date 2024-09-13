@@ -26,7 +26,7 @@ body{
 }
 .piePagina{
     width: 100%;
-    height: 100px;
+    height: 95px;
     background: #15101b;
     color: white;
     bottom: 0;
@@ -61,10 +61,14 @@ li a:hover{
 #datos{
     width: 80%;
     background-color: #88e94f;
-    height: 600px;
+    height: 800px;
     margin: auto;
     opacity: 1;
     color: #2a3e55;
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ima{
+    height: 150px;
+    width: 200px;
 }
